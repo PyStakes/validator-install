@@ -1,5 +1,5 @@
 # Ethereum Validator - Automated Install
-Set up an Ethereum Validator in just 1 click, as opposed to hours spent on manual configuration.
+Set up an Ethereum Validator in just 1 click, as opposed to hours normally spent on manual configuration.
 
 # Summary
 This Python script simplifies and automates the installation and configuration process of an Ethereum validator node.
